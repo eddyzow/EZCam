@@ -7,7 +7,7 @@ created_at: "2025-06-30"
 
 *Total hours spent: 7* | *Date started: 30 June 2025*
 
-# PCB Hacker Badge Pro
+# EZCam
 _to capture life's moments_
 
 ## entry #2 - 7/1

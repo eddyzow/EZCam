@@ -5,10 +5,17 @@ description: "A 3D-printed disposable camera that uses the Jollylook Instant Min
 created_at: "2025-06-30"
 ---
 
-*Total hours spent: 11* | *Date started: 30 June 2025*
+*Total hours spent: 13* | *Date started: 30 June 2025*
 
 # EZCam
 _to capture life's moments_
+
+## entry #5 - 7/2
+
+case door complete! tight tolerance and a screw mount while also allowing clearance for the crank
+![image](https://github.com/user-attachments/assets/56ff43bd-2809-435f-9cdc-c082c5a21b98)
+
+_hours spent during session: 2_
 
 ## entry #4 - 7/2
 

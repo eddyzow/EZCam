@@ -5,10 +5,18 @@ description: "A 3D-printed disposable camera that uses the Jollylook Instant Min
 created_at: "2025-06-30"
 ---
 
-*Total hours spent: 10* | *Date started: 30 June 2025*
+*Total hours spent: 11* | *Date started: 30 June 2025*
 
 # EZCam
 _to capture life's moments_
+
+## entry #4 - 7/2
+
+mostly finished back case -- this holds the jollylook and film. i now need to make a door for the case, then i will move on to the diaphragm. the goal is to add as much polish as possible!
+
+![image](https://github.com/user-attachments/assets/74369a97-4419-46ff-bde0-75f5bb57c86b)
+
+_hours spent during session: 1_
 
 ## entry #3 - 7/2
 

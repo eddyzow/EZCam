@@ -15,13 +15,14 @@ _to capture life's moments_
 rapid firing these very very short entries to show my progress today! 
 here's a pic of the main body starting to come together. i need to add the diaphragm/shutter, lens, and motor mechanism.
 
-_hours spent during session: 2_
-
 ![image](https://github.com/user-attachments/assets/bc58216c-140a-4120-b2b5-b5cd2d13681c)
+
+_hours spent during session: 2_
 
 ## entry #5 - 7/2
 
 case door complete! tight tolerance and a screw mount while also allowing clearance for the crank
+
 ![image](https://github.com/user-attachments/assets/56ff43bd-2809-435f-9cdc-c082c5a21b98)
 
 _hours spent during session: 2_

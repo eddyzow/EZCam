@@ -5,10 +5,22 @@ description: "A 3D-printed disposable camera that uses the Jollylook Instant Min
 created_at: "2025-06-30"
 ---
 
-*Total hours spent: 7* | *Date started: 30 June 2025*
+*Total hours spent: 10* | *Date started: 30 June 2025*
 
 # EZCam
 _to capture life's moments_
+
+## entry #3 - 7/2
+
+case work today!
+
+![image](https://github.com/user-attachments/assets/f63bc293-cef6-42b1-b46c-5b7f072ef681)
+
+the jollylook can now easily slide into the case without moving around. tomorrow i'll design a light-proof door that seals light away from the interior of the camera. then I'll begin the next stage of the camera: the diaphragm, shutter, and lens.
+
+i'm going to throw a servo motor in the diaphragm where through some mechanism (not determined yet) the shutter will be controlled open and closed. i think the best device for this is a push-pull solenoid, which basically pushes a slug of metal up when voltage is applied and back down when voltage is removed. this [Adafruit push-pull solenoid](https://www.adafruit.com/product/2776) seems like a great product and i'll probably use it in my design! 
+
+_hours spent during session: 3_
 
 ## entry #2 - 7/1
 

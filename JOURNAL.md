@@ -5,10 +5,24 @@ description: "A 3D-printed disposable camera that uses the Jollylook Instant Min
 created_at: "2025-06-30"
 ---
 
-*Total hours spent: 16* | *Date started: 30 June 2025*
+*Total hours spent: 21* | *Date started: 30 June 2025*
 
 # EZCam
 _to capture life's moments_
+
+## entry #8 - 7/3
+
+after MULTIPLE designs, i ended up with this servo-driven mechanims that might be shady and might or might not work. i'll get to that eventually!
+
+![image](https://github.com/user-attachments/assets/0a377039-00db-4387-8c6d-37d2c640520a)
+
+this took SO long and i've basically spent the entire day making this. it'll be probably done tomorrow though!
+
+![image](https://github.com/user-attachments/assets/4481635e-dc10-4e6a-9763-1cea22f1e931)
+
+i won't lie this does look pretty nice... only thing left is to submit and see what kind of pictures it can take! since it was easier than i expected i'm going to request 6 points instead of 10.
+
+_hours spent during session: 5_
 
 ## entry #7 - 7/2
 

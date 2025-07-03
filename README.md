@@ -5,6 +5,10 @@ A primarily 3D-printed instant camera. Uses the Jollylook Instant Mini Film Deve
 
 ![image](https://github.com/user-attachments/assets/58aa012e-36f8-4e7c-9d36-6b402075d1a7)
 
+## Electronics / Firmware
+
+The entire camera is mechanical except for the shutter. A servo motor with a shutter attachment is wired to the battery power and ground and the signal pin leads to a GPIO pin on a Seeed XIAO ESP32C3. When the servo rotates, it either covers or uncovers the shutter hole. The servo is controlled by the pressing of a pushdown button. Firmware is extremely simple and written in Arduino.
+
 # Bill of Materials
 
 For a full version, see [this Google Sheet!](https://docs.google.com/spreadsheets/d/1fVYDHt2o4dfsim73XuQ8pmEY-w4QKgZgS4fphIEgDbE/edit?usp=sharing)

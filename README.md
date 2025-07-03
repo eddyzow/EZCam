@@ -1,10 +1,9 @@
 # EZCam
-A primarily 3D-printed instant camera. Uses the Jollylook Instant Mini Film Development Unit for film processing. Has on/off switch, 3.7V lithium battery power for shutter, motorized servo shutter, photo button on side that holds the shutter open as you hold the button down, hand-cranked roller mechanism, and 100mm focal point lens. Runs on Instax Mini Film. Created for Hack Club's Highway program.
+A primarily 3D-printed instant camera. Uses the Jollylook Instant Mini Film Development Unit for film processing. Has on/off switch, 3.7V lithium battery power for shutter, motorized servo shutter, photo button on side that holds the shutter open as you hold the button down, hand-cranked roller mechanism, and 100mm focal point lens. Runs on Instax Mini Film. Created by Eddy Zhao (@eddyzow) in June/July 2025 for Hack Club's Highway program.
 
 ![image](https://github.com/user-attachments/assets/ed0e4387-6ae7-410c-b15a-c07b168de237)
 
 ![image](https://github.com/user-attachments/assets/58aa012e-36f8-4e7c-9d36-6b402075d1a7)
-
 
 # Bill of Materials
 
@@ -20,3 +19,8 @@ For a full version, see [this Google Sheet!](https://docs.google.com/spreadsheet
 | [Jollylook Instant Mini Film Development Unit](https://www.amazon.com/Jollylook-Instant-Development-compatable-Cameras/dp/B0BYTD4T8K) | Manual development unit for Instax film, heart of project | Amazon (Jollylook) | 1 | $47.81 | $47.81 |
 | [Fujifilm INSTAX Instant Film - 60 Pack](https://www.target.com/p/fujifilm-instax-mini-instant-film-value-pack-60ct/-/A-52205707#lnk=sametab) | 3 times the film and only 1.5 times the price. Covers testing and pictures for a trip to Undercity + more | Target | 1 | $42.49 | $42.49 |
 | **TOTAL** | | | **7** | | **$140.57** |
+
+BOM Cuts so far:	
+- Rocker switch converted to Pushbutton Latch from Pomodoro Timer	
+- Button will also be salvaged from Pomodoro Timer	
+- Can be conservative on the solder -- probably have enough to last me 	

@@ -1,0 +1,24 @@
+Bill of Materials / EZCam,,,,,
+Eddy Zhao,,,,,
+Version 1.0 - 3 July 2025,Note: Amazon used because AliExpress won't arrive on time and I'm gone for 16 days after I leave for Undercity,,,,
+,,,,,
+Item Name,Purpose,Item Source,Quantity,Unit Cost (includes taxes),Cost
+ELEGOO PLA (Black) 1kg Filament,need a significant amount of filament to run this,Amazon,1,$13.38,$13.38
+Seeed XIAO ESP32C3,Brains controlling the shutter/button,Amazon,1,$9.79,$9.79
+"4"" Focal Length Glass Lens",Camera lens,Amazon,1,$9.07,$9.07
+SG90 Micro Servo Motor,Servo motor drives the shutter that covers the lens and blocks out light,Amazon,1,$7.43,$7.43
+3.7V 2200mAh LiPo Battery,Rechargeable battery powering the Seeed + motor,Amazon,1,$10.60,$10.60
+Jollylook Instant Mini Film Development Unit,"Manual development unit for Instax film, heart of project",Amazon (Jollylook),1,$47.81,$47.81
+Fujifilm INSTAX Instant Film - 60 Pack,3 times the film and only 1.5 times the price. Covers testing and pictures for a trip to Undercity + more,Target,1,$42.49,$42.49
+,,,,,$0.00
+,,,,,$0.00
+,,,,,$0.00
+,,,,,$0.00
+,,,,,
+,,,,,
+TOTAL,,,7,,$140.57
+,,,,,
+BOM Cuts so far:,,,,,
+- Rocker switch converted to Pushbutton Latch from Pomodoro Timer,,,,,
+- Button will also be salvaged from Pomodoro Timer,,,,,
+- Can be conservative on the solder -- probably have enough to last me ,,,,,

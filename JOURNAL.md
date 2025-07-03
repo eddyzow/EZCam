@@ -5,10 +5,18 @@ description: "A 3D-printed disposable camera that uses the Jollylook Instant Min
 created_at: "2025-06-30"
 ---
 
-*Total hours spent: 21* | *Date started: 30 June 2025*
+*Total hours spent: 23* | *Date started: 30 June 2025*
 
 # EZCam
 _to capture life's moments_
+
+## entry #9 - 7/3
+
+lots of work prepping the repo to be shipped! i changed the appearance so the CAD looks less ugly:
+
+![image](https://github.com/user-attachments/assets/8aa73828-c367-48bd-bb27-3d356425c2a4)
+
+now it's time to submit! after approval i'll quickly buy the parts and get this baby assembled before undercity begins (hopefully)!
 
 ## entry #8 - 7/3
 

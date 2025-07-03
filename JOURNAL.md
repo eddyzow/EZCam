@@ -5,10 +5,20 @@ description: "A 3D-printed disposable camera that uses the Jollylook Instant Min
 created_at: "2025-06-30"
 ---
 
-*Total hours spent: 15* | *Date started: 30 June 2025*
+*Total hours spent: 16* | *Date started: 30 June 2025*
 
 # EZCam
 _to capture life's moments_
+
+## entry #7 - 7/2
+
+finished electronics design, but importantly i don't think the solenoid will work. it's too small and won't push far enough. instead i'll try to think of something else that i can use a motor with.
+
+![image](https://github.com/user-attachments/assets/2792d080-f645-490e-8f94-5fbff11f97e0)
+
+running with a Seeed XIAO ESP32-C3, on-off rocker switch, and button switch from my Pomodoro Timer project. 
+
+_hours spent during session: 1_
 
 ## entry #6 - 7/2
 

@@ -28,11 +28,12 @@ For a full version, see [this Google Sheet!](https://docs.google.com/spreadsheet
 | [4" Focal Length Glass Lens](https://www.amazon.com/dp/B0CPCQ7NCZ) | Camera lens | Amazon | 1 | $9.07 | $9.07 |
 | [SG90 Micro Servo Motor](https://www.amazon.com/WWZMDiB-SG90-Control-Servos-Arduino/dp/B0BKPL2Y21) | Servo motor drives the shutter that covers the lens and blocks out light | Amazon | 1 | $7.43 | $7.43 |
 | [3.7V 2200mAh LiPo Battery](https://www.amazon.com/OXWINOU-Battery-103450-Rechargeable-1-Pack/dp/B0CTQ6VBB6) | Rechargeable battery powering the Seeed + motor | Amazon | 1 | $10.60 | $10.60 |
-| [Jollylook Instant Mini Film Development Unit](https://www.amazon.com/Jollylook-Instant-Development-compatable-Cameras/dp/B0BYTD4T8K) | Manual development unit for Instax film, heart of project | Amazon (Jollylook) | 1 | $47.81 | $47.81 |
-| [Fujifilm INSTAX Instant Film - 60 Pack](https://www.target.com/p/fujifilm-instax-mini-instant-film-value-pack-60ct/-/A-52205707#lnk=sametab) | 3 times the film and only 1.5 times the price. Covers testing and pictures for a trip to Undercity + more | Target | 1 | $42.49 | $42.49 |
-| **TOTAL** | | | **7** | | **$140.57** |
+| [Jollylook Instant Mini Film Development Unit](https://www.amazon.com/Jollylook-Instant-Development-compatable-Cameras/dp/B0BYTD4T8K) | Manual development unit for Instax film, heart of project | Jollylook | 1 | $47.81 | $47.81 |
+| [Fujifilm INSTAX Instant Film - 20 Pack](https://www.walmart.com/ip/Fujifilm-Instax-Mini-Film-Iso-800-16437396/43922214)|Covers testing and pictures for a trip to Undercity + more | Walmart | 2 | $15.66 | $31.32 |
+| **TOTAL** | | | **8** | | **$129.40** |
 
 BOM Cuts so far:	
+- New deal at walmart that didn't exist previously let me lower the BOM to a more reasonable 40 pictures at a similar rate. 
 - Rocker switch converted to Pushbutton Latch from Pomodoro Timer	
 - Button will also be salvaged from Pomodoro Timer	
 - Can be conservative on the solder -- probably have enough to last me 	

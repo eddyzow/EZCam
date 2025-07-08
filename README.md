@@ -21,6 +21,8 @@ The entire camera is mechanical except for the shutter. A servo motor with a shu
 
 For a full version, see [this Google Sheet!](https://docs.google.com/spreadsheets/d/1fVYDHt2o4dfsim73XuQ8pmEY-w4QKgZgS4fphIEgDbE/edit?usp=sharing)
 
+Update V3 (7/8): Walmart has a shipping fee which makes Amazon cheaper for buying film
+
 | Item Name | Purpose | Item Source | Quantity | Unit Cost (includes taxes) | Cost |
 |:---|:---|:---|:---|:---|:---|
 | [Seeed XIAO ESP32C3](https://www.amazon.com/Seeed-Studio-XIAO-ESP32C3-Microcontroller/dp/B0B94JZ2YF) | Brains controlling the shutter/button | Amazon | 1 | $9.79 | $9.79 |
@@ -28,8 +30,8 @@ For a full version, see [this Google Sheet!](https://docs.google.com/spreadsheet
 | [SG90 Micro Servo Motor](https://www.amazon.com/WWZMDiB-SG90-Control-Servos-Arduino/dp/B0BKPL2Y21) | Servo motor drives the shutter that covers the lens and blocks out light | Amazon | 1 | $7.43 | $7.43 |
 | [3.7V 2200mAh LiPo Battery](https://www.amazon.com/OXWINOU-Battery-103450-Rechargeable-1-Pack/dp/B0CTQ6VBB6) | Rechargeable battery powering the Seeed + motor | Amazon | 1 | $10.60 | $10.60 |
 | [Jollylook Instant Mini Film Development Unit](https://www.amazon.com/Jollylook-Instant-Development-compatable-Cameras/dp/B0BYTD4T8K) | Manual development unit for Instax film, heart of project | Jollylook | 1 | $47.81 | $47.81 |
-| [Fujifilm INSTAX Instant Film - 20 Pack](https://www.walmart.com/ip/Fujifilm-Instax-Mini-Film-Iso-800-16437396/43922214)|Covers testing and pictures for a trip to Undercity + more | Walmart | 1 | $15.66 | $15.66 |
-| **TOTAL** | | | **8** | | **$100.36** |
+| [Fujifilm INSTAX Instant Film - 20 Pack](https://www.walmart.com/ip/Fujifilm-Instax-Mini-Film-Iso-800-16437396/43922214)|Covers testing and pictures for a trip to Undercity + more | Walmart | 1 | $23.35 | $23.35 |
+| **TOTAL** | | | **8** | | **$108.05** |
 
 BOM Cuts so far:	
 - New deal at walmart that didn't exist previously let me lower the BOM to a more reasonable 40 pictures at a similar rate. 

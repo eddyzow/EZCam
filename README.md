@@ -1,5 +1,5 @@
 # EZCam
-A primarily 3D-printed instant camera. Uses the Jollylook Instant Mini Film Development Unit for film processing. Has on/off switch, 3.7V lithium battery power for shutter, motorized servo shutter, photo button on side that holds the shutter open as you hold the button down, hand-cranked roller mechanism, and 100mm focal point lens. Runs on Instax Mini Film. 
+A 3D-printed instant camera. Uses the Jollylook Instant Mini Film Development Unit for film processing. Has hand-cranked roller mechanism and 100mm focal point lens. Runs on Instax Mini Film.
 
 I created this project because I was interested in how cameras that print pictures worked. It turns out they actually don't print but spread a layer of photochemical over the undeveloped film. This made it possible to do this mechanically, and thus the 3D printed camera was born. I also wanted to make and bring a project to Undercity that could generate real tangible versions of memories.
 

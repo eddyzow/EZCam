@@ -10,6 +10,12 @@ created_at: "2025-06-30"
 # EZCam
 _to capture life's moments_
 
+## entry #10 - 8/14
+
+it's been a month lol but I forgot to add an IRL picture of the camera! so here it is
+
+<img width="958" height="1258" alt="image" src="https://github.com/user-attachments/assets/0c70f0f9-4309-4d7d-a627-4abbf61ab644" />
+
 ## entry #9 - 7/3
 
 lots of work prepping the repo to be shipped! i changed the appearance so the CAD looks less ugly:

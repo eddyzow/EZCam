@@ -6,7 +6,7 @@ I created this project because I was interested in how cameras that print pictur
 Created by Eddy Zhao (@eddyzow) in June/July 2025 for Hack Club's Highway program.
 
 ![image](https://github.com/user-attachments/assets/0b458fc2-eeac-4db4-910a-fe3a2cb60d7e)
-
+<img width="958" height="1258" alt="image" src="https://github.com/user-attachments/assets/0c70f0f9-4309-4d7d-a627-4abbf61ab644" />
 ![image](https://github.com/user-attachments/assets/c108b87a-b6f5-4b5c-b329-f7ff2a862456)
 
 I made this project

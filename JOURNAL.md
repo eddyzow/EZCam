@@ -16,6 +16,16 @@ it's been a month lol but I forgot to add an IRL picture of the camera! so here 
 
 <img width="958" height="1258" alt="image" src="https://github.com/user-attachments/assets/0c70f0f9-4309-4d7d-a627-4abbf61ab644" />
 
+& a real image it took (the rest weren't great unfortunately)
+
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/bb739741-9ae0-4951-b88e-90154e687abd" />
+
+and a pic from the front!
+
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/18d932cd-bc7c-41b6-9766-75c1d9bf1f0e" />
+
+this was an amazing project and i'd love to do it all over again!
+
 ## entry #9 - 7/3
 
 lots of work prepping the repo to be shipped! i changed the appearance so the CAD looks less ugly:
